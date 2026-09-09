@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\CMakeFiles\0a67f550ec9ffc0732c5efcdf7d263ae\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4EB81ADD-6D66-35D5-863E-BB2F4528517D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/ee6b16e95909226d0cf1c2b44b403460/glfw-populate.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/60bdb8894d7e8d7f79f0360231800508/glfw-populate-complete.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-build.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-configure.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-download.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-install.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-mkdir.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-patch.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-test.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-update.rule

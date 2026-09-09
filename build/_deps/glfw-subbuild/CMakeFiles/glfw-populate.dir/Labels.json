@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/ee6b16e95909226d0cf1c2b44b403460/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/60bdb8894d7e8d7f79f0360231800508/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-subbuild/CMakeFiles/10bd8fefd42463bda7b231cde8e906a7/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

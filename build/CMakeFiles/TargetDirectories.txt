@@ -1,0 +1,10 @@
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/CMakeFiles/forklift_simulator.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/CMakeFiles/INSTALL.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/c87edcb65bbaad80b85a0f78b96c5dc0/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/d3a5642c11edbb3cd83466c4d8d09635/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

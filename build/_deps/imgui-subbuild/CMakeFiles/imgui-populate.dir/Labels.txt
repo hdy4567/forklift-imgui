@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/c87edcb65bbaad80b85a0f78b96c5dc0/imgui-populate.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/d3a5642c11edbb3cd83466c4d8d09635/imgui-populate-complete.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-build.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-configure.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-download.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-install.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-mkdir.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-patch.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-test.rule
+C:/Users/moble/.gemini/antigravity-ide/scratch/forklift-imgui/build/_deps/imgui-subbuild/CMakeFiles/248bf12b6209e2ed7aac1ad5626aa676/imgui-populate-update.rule

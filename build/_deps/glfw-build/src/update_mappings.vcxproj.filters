@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\CMakeFiles\0a67f550ec9ffc0732c5efcdf7d263ae\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4EB81ADD-6D66-35D5-863E-BB2F4528517D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B694E7A-EE16-31B1-A8A4-9BA444238143}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

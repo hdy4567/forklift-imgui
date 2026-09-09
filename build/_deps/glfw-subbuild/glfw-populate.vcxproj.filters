@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\10bd8fefd42463bda7b231cde8e906a7\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\60bdb8894d7e8d7f79f0360231800508\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\ee6b16e95909226d0cf1c2b44b403460\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\moble\.gemini\antigravity-ide\scratch\forklift-imgui\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B5FDA3AB-FB85-3C73-8663-1937983C3FD4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
