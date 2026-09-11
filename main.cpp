@@ -1,6 +1,7 @@
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
 #include "imgui_impl_opengl3.h"
+#include "WaypointRenderer.hpp"
 #include <GLFW/glfw3.h>
 #include <iostream>
 #include <vector>
@@ -228,6 +229,7 @@ void Robot::move(float dt) {
 
 std::vector<Robot> global_robots;
 
+
 static void glfw_error_callback(int error, const char* description) {
     std::cerr << "GLFW Error " << error << ": " << description << std::endl;
 }
@@ -268,7 +270,7 @@ int main(int, char**) {
     global_robots.push_back({3, {80.0f, 55.0f}, 99.0f, "Idle", 8.0f, {0,0}, {}, 0.0f, 0.0f});
 
     for(auto& r : global_robots) {
-        r.set_target(50, 10);
+        r.set_target(50, 45); // Actually walkable aisle position
     }
 
     ImVec4 clear_color = ImVec4(0.15f, 0.15f, 0.15f, 1.00f);
@@ -388,21 +390,16 @@ int main(int, char**) {
         float pulse = (sin(time * 5.0) + 1.0f) * 0.5f; // 0.0 ~ 1.0
 
         for (const auto& robot : global_robots) {
+            // [담당 기능] 독립 모듈 WaypointRenderer 호출 (팀원 코드 건드리지 않음)
+            WaypointRenderer::Render(
+                draw_list,
+                ImVec2(robot.position[0], robot.position[1]),
+                robot.current_path,
+                ImVec2(robot.target_position[0], robot.target_position[1]),
+                canvas_p0, scale_x, scale_y, time
+            );
+
             ImVec2 pos = ImVec2(canvas_p0.x + robot.position[0] * scale_x, canvas_p0.y + robot.position[1] * scale_y);
-            ImVec2 target_pos = ImVec2(canvas_p0.x + robot.target_position[0] * scale_x, canvas_p0.y + robot.target_position[1] * scale_y);
-            
-            if (robot.current_path.size() > 0) {
-                ImVec2 last_p = pos;
-                for (size_t i = 0; i < robot.current_path.size(); ++i) {
-                    ImVec2 wp_pos = ImVec2(canvas_p0.x + robot.current_path[i].x * scale_x, canvas_p0.y + robot.current_path[i].y * scale_y);
-                    // Neon glowing path
-                    draw_list->AddLine(last_p, wp_pos, IM_COL32(0, 255, 255, 40), 4.0f);
-                    draw_list->AddLine(last_p, wp_pos, IM_COL32(0, 255, 255, 150), 1.5f);
-                    last_p = wp_pos;
-                }
-            }
-            
-            draw_list->AddCircleFilled(target_pos, 5.0f, IM_COL32(255, 100, 100, 200));
 
             float dx = robot.current_path.empty() ? (robot.target_position[0] - robot.position[0]) : (robot.current_path.front().x - robot.position[0]);
             float dy = robot.current_path.empty() ? (robot.target_position[1] - robot.position[1]) : (robot.current_path.front().y - robot.position[1]);
